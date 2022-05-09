@@ -2,6 +2,7 @@
 Its objective now is to provide you a version of speedtest.net without any ads. No need for an adblocker on some platforms just to have an accurate speedtest.
 
 SpeedTest Website: https://thedoggybrad.github.io/ADKILLED-SPEEDTEST.NET/
+<br>
 Powered by https://speedtest.net
 
 
